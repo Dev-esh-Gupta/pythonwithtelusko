@@ -21,3 +21,5 @@ f4 = open('myPic.jpg', 'wb')
 
 for data in f3:
     f4.write(data)
+
+print('We Added something')
